@@ -91,7 +91,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-    fun Int.div(number2: Int) : Int{
+    fun Float.div(number2: Float) : Float {
         return this/number2
     }
     fun Int.sum(number2: Int) : Int{
